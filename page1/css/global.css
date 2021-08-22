@@ -1,0 +1,11 @@
+*{color:#214252; }
+.bg{background:url('../photodune-11213896-italian-food-cooking-ingredients-l-1600x1067.jpg') no-repeat center fixed ;
+  -webkit-backdrop-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+  width:100%; height:100vh; }
+.from-container{border:0px solid #fff;padding:30px 40px;margin-top: 20vh;
+  -webkit-box-shadow: -1px -2px 26px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: -1px -2px 26px 0px rgba(0,0,0,0.75);
+  box-shadow: -1px -2px 26px 0px rgba(0,0,0,0.75);}
